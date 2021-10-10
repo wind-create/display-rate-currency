@@ -1,3 +1,12 @@
+# Assignment Projects: Display Currency Rate
+
+Menampilan rate for CAD || IDR || JPY || CHF || EUR || USD. dengan menggunakan API 3rd parties
+
+# Result 
+
+![gambar](https://user-images.githubusercontent.com/56558752/136705206-2739e55b-d9a3-4d0f-a429-7a8cf7f32bf6.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
