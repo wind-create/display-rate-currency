@@ -45,7 +45,7 @@ const Currency = () => {
         },
     ]
     useEffect(() => {
-        axios.get('http://api.exchangeratesapi.io/v1/latest?access_key=8a2824c4e5d2fc0ae96e5a937831ea05&base=EUR&symbols=CAD,IDR,JPY,CHF,EUR,USD')
+        axios.get('http://api.exchangeratesapi.io/v1/latest?access_key=26e636f537e1a3d25d18b85f0d2fffd8&base=EUR&symbols=CAD,IDR,JPY,CHF,EUR,USD')
             .then(res => {
                 setCoins(res.data.rates)
                 setDate(res.data.date)
